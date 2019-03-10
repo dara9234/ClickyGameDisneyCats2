@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Cheshire",
+    "image": "https://dara9234.github.io/ClickyGameDisneyCats/images/cheshire1.png",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "Felix",
+    "image": "https://dara9234.github.io/ClickyGameDisneyCats/images/felix1.png", 
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "garfield",
+    "image": "https://dara9234.github.io/ClickyGameDisneyCats/images/garfield1.png",
+    "clicked":false
+   
+  },
+  {
+    "id": 4,
+    "name": "Heath cliff",
+    "image": "https://dara9234.github.io/ClickyGameDisneyCats/images/heathcliff1.png",
+    "clicked":false
+   
+  },
+  {
+    "id": 5,
+    "name": "Hello Kitty",
+    "image": "https://dara9234.github.io/ClickyGameDisneyCats/images/hellokitty2.png",
+    "clicked":false
+  
+  },
+  {
+    "id": 6,
+    "name": "Nermal",
+    "image": "https://dara9234.github.io/ClickyGameDisneyCats/images/nermal1.png",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "Puss",
+    "image": "https://dara9234.github.io/ClickyGameDisneyCats/images/puss1.png",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "Rajah",
+    "image": "https://dara9234.github.io/ClickyGameDisneyCats/images/rajah1.png",
+    "clicked": false
+
+  },
+  {
+    "id": 9,
+    "name": "Simba",
+    "image": "https://dara9234.github.io/ClickyGameDisneyCats/images/simba1.png",
+    "clicked": false
+
+  },
+  {
+    "id": 10,
+    "name": "Sylverster",
+    "image": "https://dara9234.github.io/ClickyGameDisneyCats/images/sylvester1.png",
+    "clicked": false
+ 
+  },
+  {
+    "id": 11,
+    "name": "Tigger",
+    "image": "https://dara9234.github.io/ClickyGameDisneyCats/images/tigger1.png",
+    "clicked": false
+    
+  },
+  {
+    "id": 12,
+    "name": "Tom",
+    "image": "https://dara9234.github.io/ClickyGameDisneyCats/images/tom1.png",
+    "clicked": false
+  
+  }
+]

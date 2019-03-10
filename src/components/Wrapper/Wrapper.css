@@ -1,0 +1,12 @@
+
+.wrapper {
+  margin: 5%;
+  padding-top: 2%;
+  background-color: goldenrod;
+  height: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  padding: 2%;
+  overflow: auto;
+  
+} 
